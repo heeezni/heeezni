@@ -1,16 +1,28 @@
-## Hi there 👋
+## 👋 Hi, I'm Heejin!
 
-<!--
-**heeezni/heeezni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🌱 From Kindergarten Teacher to Developer  
+지금은 백엔드 개발자가 되기 위해 매일매일 성장 중이에요.  
+Java와 JavaScript를 집중적으로 공부하고 있고, 다양한 프로젝트를 통해 실력을 쌓고 있어요.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧠 현재 공부 중
+- Java / Java Swing
+- JavaScript (Vanilla JS)
+- MySQL, Oracle DB
+- Git & GitHub, CLI
+- 
+---
+
+### 🛠 Tech Stack
+`Java` `JavaScript` `HTML/CSS`  
+`MySQL` `Oracle`  
+`Git` `IndexedDB` `Swing UI`
+
+---
+
+### 📫 Contact
+- 📒 [Velog 블로그](https://velog.io/@hjin3456)
+- ✉️ Email: hjin3456@naver.com
+
+
