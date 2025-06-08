@@ -1,4 +1,5 @@
-## 👋 Hi, I'm Heejin!
+## 🎓➡️💻 Heejin here — once a teacher, now coding my next chapter!
+
 
 ### 🌱 From Kindergarten Teacher to Developer  
 지금은 백엔드 개발자가 되기 위해 매일매일 성장 중이에요.  
