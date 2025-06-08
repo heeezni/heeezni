@@ -12,7 +12,6 @@ Java와 JavaScript를 집중적으로 공부하고 있고, 다양한 프로젝�
 - JavaScript (Vanilla JS)
 - MySQL, Oracle DB
 - Git & GitHub, CLI
-- 
 ---
 
 ### 🛠 Tech Stack
