@@ -30,8 +30,6 @@ Java와 JavaScript를 집중적으로 공부하고 있고, 다양한 프로젝�
 <!-- MySQL -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="30"/> MySQL
 
-<br>
-
 <!-- Oracle -->
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
