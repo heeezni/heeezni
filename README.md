@@ -4,7 +4,7 @@
 ### 🌱 From Kindergarten Teacher to Developer  
 ---
 
-### 🧠 현재 공부 중
+### 현재 공부 중
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="30"/> Java <br>
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30"/> JavaScript (Vanilla JS) <br>
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="30"/> MySQL, ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white) <br>
@@ -13,7 +13,7 @@
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="30" style="vertical-align: middle;"/> Figma
 ---
 
-### 🛠 Tech Stack
+### Tech Stack
 
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -27,7 +27,7 @@
 
 ---
 
-### 📫 Contact
+### Contact
 - 📒 [Velog 블로그](https://velog.io/@hjin3456)
 - ✉️ Email: hjin3456@naver.com
 
