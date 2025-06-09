@@ -1,4 +1,4 @@
-## 🎓➡️💻 Heejin here — once a teacher, now coding my next chapter!
+## Heejin here — once a teacher, now coding my next chapter!
 
 
 ### 🌱 From Kindergarten Teacher to Developer  
