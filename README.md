@@ -4,6 +4,16 @@
 ### 🌱 From Kindergarten Teacher to Developer  
 ---
 
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=heeezni&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/heeezni"
+  width="600"
+  height="300"
+/>
+</a>
+
+---
+
 ### 현재 공부 중
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="30"/> Java <br>
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30"/> JavaScript (Vanilla JS) <br>
