@@ -52,7 +52,7 @@
 ---
 
 ### Contact
-- 📒 [Velog 블로그](https://velog.io/@hjin3456)
+- 📒 [Velog 기술블로그](https://velog.io/@hjin3456)
 - ✉️ Email: hjin3456@naver.com
 
 
