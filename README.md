@@ -11,6 +11,15 @@
   height="300"
 />
 </a>
+<br>
+<a href="https://www.gitanimals.org/">
+      <img
+        src="https://render.gitanimals.org/guilds/740144882072992915/draw"
+        width="600"
+        height="300"
+        alt="gitanimals"
+      />
+    </a>
 
 ---
 
