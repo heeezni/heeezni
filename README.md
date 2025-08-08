@@ -1,7 +1,6 @@
-## Heejin here — once a teacher, now coding my next chapter!
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Cherry+Bomb+One&size=60&duration=3000&pause=2000&color=FF8DC4&vCenter=true&width=700&height=70&lines=Hello%2C+world!+and+beyond.)](https://git.io/typing-svg)
 
-### 🌱 From Kindergarten Teacher to Developer  
 ---
 
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=heeezni&utm_content=farm">
