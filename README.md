@@ -3,9 +3,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Cherry+Bomb+One&size=60&duration=3000&pause=2000&color=FF8DC4&vCenter=true&width=700&height=70&lines=Hello%2C+world!+and+beyond.)](https://git.io/typing-svg)
 
 ---
-<div style="display:inline-block; transform: translateX(-50px);">
+
 <a href="https://myhits.vercel.app"><img src="https://myhits.vercel.app/api/hit/https%3A%2F%2Fgithub.com%2Fheeezni?color=green&label=welcome!&size=medium" alt="welcome!" /></a>
-</div>
 
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=heeezni&utm_content=farm">
 <img
