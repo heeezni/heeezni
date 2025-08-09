@@ -4,8 +4,6 @@
 
 ---
 
-<a href="https://myhits.vercel.app"><img src="https://myhits.vercel.app/api/hit/https%3A%2F%2Fgithub.com%2Fheeezni?color=green&label=welcome!&size=medium" alt="welcome!" /></a>
-
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=heeezni&utm_content=farm">
 <img
   src="https://render.gitanimals.org/farms/heeezni"
@@ -22,6 +20,8 @@
         alt="gitanimals"
       />
     </a>
+
+<a href="https://myhits.vercel.app"><img src="https://myhits.vercel.app/api/hit/https%3A%2F%2Fgithub.com%2Fheeezni?color=green&label=welcome!&size=medium" alt="welcome!" /></a>  
 
 ---
 
