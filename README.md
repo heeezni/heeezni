@@ -58,6 +58,11 @@
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 
+---
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heeezni)](https://github.com/anuraghazra/github-readme-stats)
+<br>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=heeezni&hide=contribs,prs&show_icons=true&theme=radical)
 
 ---
 
