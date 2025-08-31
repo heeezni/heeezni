@@ -59,9 +59,10 @@
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 
 ---
-<!--
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heeezni)](https://github.com/anuraghazra/github-readme-stats)
--->
+
+---
 
 ### Contact
 📒 [Velog 기술블로그](https://velog.io/@hjin3456)<br>
