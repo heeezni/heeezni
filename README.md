@@ -60,7 +60,11 @@
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heeezni)](https://github.com/anuraghazra/github-readme-stats)
+<div align=center>
+  <img src="https://github-readme-stats.vercel.app/api?username=heeezni&show_icons=true&theme=radical" alt="Github stats"/>
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heeezni&layout=compact&theme=radical" alt="Top Langs"/>
+</div>
 
 ---
 
