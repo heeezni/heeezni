@@ -69,7 +69,8 @@
 ---
 
 ### Contact
-📒 [Velog 기술블로그](https://velog.io/@hjin3456)<br>
+✏️ [Velog 기술블로그](https://velog.io/@hjin3456)<br>
+✏️ [Tistory 기술블로그](https://heeezni.tistory.com/) </br>
 ✉️ Email: hjin3456@naver.com
 
 </div>
