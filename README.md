@@ -60,14 +60,6 @@
 
 ---
 
-<div align=center>
-  <img src="https://github-readme-stats.vercel.app/api?username=heeezni&show_icons=true&theme=radical" alt="Github stats"/>
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heeezni&layout=compact&theme=radical" alt="Top Langs"/>
-</div>
-
----
-
 ### Contact
 ✏️ [Velog 기술블로그](https://velog.io/@hjin3456)<br>
 ✏️ [Tistory 기술블로그](https://heeezni.tistory.com/) </br>
